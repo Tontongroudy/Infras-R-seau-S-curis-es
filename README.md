@@ -1,4 +1,4 @@
-# Infrastructure réseau sécurisée — attaques L2 et contre-mesures
+# Infrastructure réseau sécurisée : attaques L2 et contre-mesures
 
 ![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-lab-2E8B57?style=flat-square)
@@ -26,9 +26,9 @@ Projet réalisé à l'EFREI (Bachelor Cybersécurité & Ethical Hacking) : const
 
 ---
 
-## TP1 — Mise en place de l'infrastructure
+## TP1 : Mise en place de l'infrastructure
 
-📁 [`tp1/`](tp1)
+Dossier : [`tp1/`](tp1)
 
 - Configuration des VLAN, trunks et ports d'accès sur les 4 switchs
 - Routage inter-VLAN et NAT sur r1
@@ -43,9 +43,9 @@ Projet réalisé à l'EFREI (Bachelor Cybersécurité & Ethical Hacking) : const
 
 ---
 
-## TP2 — Attaques
+## TP2 : Attaques
 
-📁 [`tp2/`](tp2)
+Dossier : [`tp2/`](tp2)
 
 Attaques menées depuis une machine du VLAN 10 avec **Scapy**.
 
@@ -59,9 +59,9 @@ Attaques menées depuis une machine du VLAN 10 avec **Scapy**.
 
 ---
 
-## TP3 — Durcissement des switchs
+## TP3 : Durcissement des switchs
 
-📁 [`tp3/`](tp3)
+Dossier : [`tp3/`](tp3)
 
 Contre-mesures appliquées sur les 4 switchs d'accès :
 
